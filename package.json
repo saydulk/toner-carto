@@ -20,7 +20,7 @@
     "pgexplode": "^1.0.0",
     "raven": "^0.7.2",
     "tessera": "^0.8.0",
-    "tilejson": "^0.12.0",
+    "tilejson": "^0.13.0",
     "tilelive": "^5.4.0",
     "tilelive-blend": "^0.1.1",
     "tilelive-cache": "^0.4.1",
