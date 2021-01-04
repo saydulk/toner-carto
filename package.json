@@ -19,7 +19,7 @@
     "on-headers": "^1.0.0",
     "pgexplode": "^1.0.0",
     "raven": "^0.7.2",
-    "tessera": "^0.8.0",
+    "tessera": "^0.14.1",
     "tilejson": "^0.12.0",
     "tilelive": "^5.4.0",
     "tilelive-blend": "^0.1.1",
